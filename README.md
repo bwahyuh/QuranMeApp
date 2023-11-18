@@ -2,8 +2,6 @@
 
 Quranme is a Muslim app to schedule your daily need like prayer reminders, Islamic calendar, and create your custom activity to track your activity
 
-<img src="https://user-images.githubusercontent.com/32610660/197125694-39e0afe8-24ac-4083-8e02-d284020ae909.png"/>
-
 
 ## Screenshot
 <table style="width:100%">
